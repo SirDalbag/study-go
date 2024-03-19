@@ -1,2 +1,3 @@
-# study-go
+# Go Lang
+
 Learning Go
