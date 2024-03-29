@@ -84,7 +84,7 @@ func pointers() {
 	fmt.Println("Pointer:", *_pointer)
 }
 
-func main() {
+func types() {
 	fmt.Println("Global:", _global)
 	numbers()
 	chars()
